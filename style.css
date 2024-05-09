@@ -37,9 +37,9 @@ Version: 0.1
 
 :root {
     --default: #73C151;
-    --default-hover: #30810d;
-    --supprot: #FF3C00;
-    --supprot-hover: #a72801;
+    --supprot: #141323;
+    /* --supprot: #FF3C00;
+    --supprot-hover: #a72801; */
 }
 
 
@@ -3470,7 +3470,7 @@ a.logo_thumb img {
     text-align: center;
     position: absolute;
     right: 0;
-    top: 136px;
+    top: 120px;
     display: inline-block;
 }
 
@@ -4235,7 +4235,7 @@ span.fill {
   }
 }
 
-}
+
 /*--==============================================->
   <!--Start animation dance-->
  ==================================================-*/
